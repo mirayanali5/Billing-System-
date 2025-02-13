@@ -1,0 +1,37 @@
+        Welcome to BestMart (^_^) Place Your Order!
+
+Available items:
+        1. apple - ₹0.75
+        2. banana - ₹1.35
+        3. carrot - ₹0.75
+        4. ketchup - ₹90.00
+        5. bread - ₹50.00
+        6. milk - ₹90.00
+        7. egg - ₹6.00
+        8. pasta - ₹100.00
+        9. rice - ₹65.00
+        10. oil - ₹90.00
+        11. cheese - ₹118.00
+
+Enter Item Name (or 'done' to finish): apple
+Enter Quantity: 2
+
+Enter Item Name (or 'done' to finish): milk
+Enter Quantity: 1
+
+Enter Item Name (or 'done' to finish): cheese
+Enter Quantity: 1
+
+Enter Item Name (or 'done' to finish): done
+
+        BESTMART
+        RECEIPT ^o^
+
+Description      Price      Quantity
+apple           ₹ 0.75       2
+milk            ₹ 90.00      1
+cheese          ₹ 118.00     1
+
+Bill Amount: ₹209.50
+
+        Thank You! :)
