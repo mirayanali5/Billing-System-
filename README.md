@@ -1,1 +1,1 @@
-# Billing-System-
+This project includes a C program that simulates a shopping cart experience where a user can pick items they've purchased, and the program then generates a receipt summarizing those purchases. This type of program can be useful for small businesses or personal projects where keeping track of purchases and generating receipts is necessary.
